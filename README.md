@@ -13,7 +13,7 @@ Lifelong Learner, currently working as .
 <p>
     - :keyboard: I’m currently learning Data Analytics. </br>
     - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
+    - :mailbox: How to reach me: <a href="mailto:raharjo.sinungeko@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: She/Her. </br>
     - :game_die: Drawing and writing are part of me. </br>
 <p>
@@ -22,9 +22,7 @@ Lifelong Learner, currently working as .
 <a href="https://twitter.com/corokakus">
   <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
-<a href="https://www.instagram.com/sinung_eko/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
+
 Ubah link media sosial diatas dengan link media sosial kalian.
 
 Untuk Tools, kalian juga dapat menambahkan:
@@ -33,6 +31,6 @@ Untuk Tools, kalian juga dapat menambahkan:
 <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" /> - Swift
 <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" /> - IDE
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=namaAnda&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namaAnda&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=corokakus&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corokakus&layout=compact" height=180 />
 </p>
